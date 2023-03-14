@@ -13,7 +13,7 @@ int calculate() {
 		sum = a + b;
 		return sum;
 		break;
-  case '-':
+	case '-':
 		sum = a - b;
 		return sum;
 		break;
